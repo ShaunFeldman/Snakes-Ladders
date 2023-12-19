@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS3/Snakes&amp;Ladders/Snakes_1/Content/Fonts/StartingInfo.spritefont</SourceFile>
+  <SourceTime>2021-12-04T15:53:20-05:00</SourceTime>
+  <DestFile>/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS3/Snakes&amp;Ladders/Snakes_1/Content/bin/DesktopGL/Content/Fonts/StartingInfo.xnb</DestFile>
+  <DestTime>2023-12-18T20:43:50.0908789-05:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2020-08-10T16:17:54-04:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2020-08-10T16:17:54-04:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

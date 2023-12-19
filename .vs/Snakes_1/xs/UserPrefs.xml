@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{F3DABB92-4DDB-4621-9E59-05180AE52A0D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Snakes_1/Game1.cs">
+    <Files>
+      <File FileName="Snakes_1/Game1.cs" Line="256" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Snakes_1" expanded="True">
+            <Node name="Snakes_1" expanded="True">
+              <Node name="Content" expanded="True">
+                <Node name="Audio" expanded="True">
+                  <Node name="Music" expanded="True" />
+                  <Node name="Sounds" expanded="True" />
+                </Node>
+                <Node name="Fonts" expanded="True" />
+                <Node name="Images" expanded="True">
+                  <Node name="Sprites" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Game1.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Snakes__1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

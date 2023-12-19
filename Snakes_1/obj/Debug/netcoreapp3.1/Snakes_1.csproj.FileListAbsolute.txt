@@ -1,0 +1,165 @@
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS2/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/Content/Fonts/TitleFont.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS2/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/Snakes_1.deps.json
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS2/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/Snakes_1.runtimeconfig.json
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS2/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/Snakes_1.runtimeconfig.dev.json
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS2/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/Snakes_1.dll
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS2/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/Snakes_1.pdb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS2/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/MonoGame.Framework.dll
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS2/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libSDL2-2.0.so.0
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS2/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libopenal.so.1
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS2/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/runtimes/osx/native/libSDL2-2.0.0.dylib
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS2/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/runtimes/osx/native/libopenal.1.dylib
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS2/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/SDL2.dll
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS2/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/soft_oal.dll
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS2/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/SDL2.dll
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS2/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/soft_oal.dll
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS2/Snakes_1/Snakes_1/obj/Debug/netcoreapp3.1/Snakes_1.csproj.AssemblyReference.cache
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS2/Snakes_1/Snakes_1/obj/Debug/netcoreapp3.1/Snakes_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS2/Snakes_1/Snakes_1/obj/Debug/netcoreapp3.1/Snakes_1.AssemblyInfoInputs.cache
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS2/Snakes_1/Snakes_1/obj/Debug/netcoreapp3.1/Snakes_1.AssemblyInfo.cs
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS2/Snakes_1/Snakes_1/obj/Debug/netcoreapp3.1/Snakes_1.csproj.CoreCompileInputs.cache
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS2/Snakes_1/Snakes_1/obj/Debug/netcoreapp3.1/Snakes_1.csproj.CopyComplete
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS2/Snakes_1/Snakes_1/obj/Debug/netcoreapp3.1/Snakes_1.dll
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS2/Snakes_1/Snakes_1/obj/Debug/netcoreapp3.1/Snakes_1.pdb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS2/Snakes_1/Snakes_1/obj/Debug/netcoreapp3.1/Snakes_1.genruntimeconfig.cache
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS2/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/Content/Images/download.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS2/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/StartBtn.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS2/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/CastleBackground.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS2/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/BG-Menu.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS2/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/Content/Fonts/StartingInfo.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS2/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/snakesandladders.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS2/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/Content/Fonts/PlayerInfo.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS2/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/Animation2D.dll
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS2/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/DiceSpin1.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS2/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/DiceRollingAni.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS2/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/Content/Fonts/RollDice.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS2/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/DiceSides1.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS2/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/DiceSides3.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS2/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/DiceSides4.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS2/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/DiceSides5.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS2/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/DiceSides6.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS2/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/DiceSides2png.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS2/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/DiceSides2.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS2/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/PieceBlue.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS2/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/PieceGreen.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS2/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/1PlayerImg.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS2/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/2PlayerImg.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS2/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/Content/Fonts/SnakeOrLadder.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS2/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/Content/Fonts/StatsInfo.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS2/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/Content/Audio/Sounds/roll.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS2/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/Content/Audio/Music/01. Hero - Hans Zimmer (Kung Fu Panda Soundtrack).ogg
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS2/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/Content/Audio/Music/01. Hero - Hans Zimmer (Kung Fu Panda Soundtrack).xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS2/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/Content/Audio/Music/16. Oogway Acsends - Hans Zimmer (Kung Fu Panda Soundtrack).ogg
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS2/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/Content/Audio/Music/16. Oogway Acsends - Hans Zimmer (Kung Fu Panda Soundtrack).xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS2/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/Content/Audio/Music/17. Kung Fu Fighting ft Cee-Lo Green and Jack Black - Hans Zimmer (Kung Fu Panda Soundtrack).ogg
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS2/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/Content/Audio/Music/17. Kung Fu Fighting ft Cee-Lo Green and Jack Black - Hans Zimmer (Kung Fu Panda Soundtrack).xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/Content/Images/download.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/CastleBackground.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/DiceSides2png.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/DiceSpin1.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/PieceGreen.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/StartBtn.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/Content/Audio/Music/01. Hero - Hans Zimmer (Kung Fu Panda Soundtrack).ogg
+/Users/shaunfeldman/Projects/ICS3 copy/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/Content/Audio/Music/01. Hero - Hans Zimmer (Kung Fu Panda Soundtrack).xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/Content/Audio/Music/16. Oogway Acsends - Hans Zimmer (Kung Fu Panda Soundtrack).ogg
+/Users/shaunfeldman/Projects/ICS3 copy/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/Content/Audio/Music/16. Oogway Acsends - Hans Zimmer (Kung Fu Panda Soundtrack).xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/Content/Audio/Music/17. Kung Fu Fighting ft Cee-Lo Green and Jack Black - Hans Zimmer (Kung Fu Panda Soundtrack).ogg
+/Users/shaunfeldman/Projects/ICS3 copy/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/Content/Audio/Music/17. Kung Fu Fighting ft Cee-Lo Green and Jack Black - Hans Zimmer (Kung Fu Panda Soundtrack).xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/Content/Audio/Sounds/roll.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/Content/Fonts/PlayerInfo.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/Content/Fonts/RollDice.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/Content/Fonts/SnakeOrLadder.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/Content/Fonts/StartingInfo.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/Content/Fonts/StatsInfo.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/Content/Fonts/TitleFont.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/1PlayerImg.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/2PlayerImg.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/BG-Menu.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/DiceRollingAni.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/DiceSides1.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/DiceSides2.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/DiceSides3.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/DiceSides4.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/DiceSides5.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/DiceSides6.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/PieceBlue.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/snakesandladders.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/Snakes_1.deps.json
+/Users/shaunfeldman/Projects/ICS3 copy/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/Snakes_1.runtimeconfig.json
+/Users/shaunfeldman/Projects/ICS3 copy/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/Snakes_1.runtimeconfig.dev.json
+/Users/shaunfeldman/Projects/ICS3 copy/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/Snakes_1.dll
+/Users/shaunfeldman/Projects/ICS3 copy/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/Snakes_1.pdb
+/Users/shaunfeldman/Projects/ICS3 copy/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/MonoGame.Framework.dll
+/Users/shaunfeldman/Projects/ICS3 copy/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libSDL2-2.0.so.0
+/Users/shaunfeldman/Projects/ICS3 copy/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libopenal.so.1
+/Users/shaunfeldman/Projects/ICS3 copy/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/runtimes/osx/native/libSDL2-2.0.0.dylib
+/Users/shaunfeldman/Projects/ICS3 copy/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/runtimes/osx/native/libopenal.1.dylib
+/Users/shaunfeldman/Projects/ICS3 copy/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/SDL2.dll
+/Users/shaunfeldman/Projects/ICS3 copy/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/soft_oal.dll
+/Users/shaunfeldman/Projects/ICS3 copy/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/SDL2.dll
+/Users/shaunfeldman/Projects/ICS3 copy/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/soft_oal.dll
+/Users/shaunfeldman/Projects/ICS3 copy/Snakes_1/Snakes_1/bin/Debug/netcoreapp3.1/Animation2D.dll
+/Users/shaunfeldman/Projects/ICS3 copy/Snakes_1/Snakes_1/obj/Debug/netcoreapp3.1/Snakes_1.csproj.AssemblyReference.cache
+/Users/shaunfeldman/Projects/ICS3 copy/Snakes_1/Snakes_1/obj/Debug/netcoreapp3.1/Snakes_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shaunfeldman/Projects/ICS3 copy/Snakes_1/Snakes_1/obj/Debug/netcoreapp3.1/Snakes_1.AssemblyInfoInputs.cache
+/Users/shaunfeldman/Projects/ICS3 copy/Snakes_1/Snakes_1/obj/Debug/netcoreapp3.1/Snakes_1.AssemblyInfo.cs
+/Users/shaunfeldman/Projects/ICS3 copy/Snakes_1/Snakes_1/obj/Debug/netcoreapp3.1/Snakes_1.csproj.CoreCompileInputs.cache
+/Users/shaunfeldman/Projects/ICS3 copy/Snakes_1/Snakes_1/obj/Debug/netcoreapp3.1/Snakes_1.csproj.CopyComplete
+/Users/shaunfeldman/Projects/ICS3 copy/Snakes_1/Snakes_1/obj/Debug/netcoreapp3.1/Snakes_1.dll
+/Users/shaunfeldman/Projects/ICS3 copy/Snakes_1/Snakes_1/obj/Debug/netcoreapp3.1/Snakes_1.pdb
+/Users/shaunfeldman/Projects/ICS3 copy/Snakes_1/Snakes_1/obj/Debug/netcoreapp3.1/Snakes_1.genruntimeconfig.cache
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS3/Snakes&Ladders/Snakes_1/bin/Debug/netcoreapp3.1/Content/Images/download.xnb
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS3/Snakes&Ladders/Snakes_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/CastleBackground.xnb
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS3/Snakes&Ladders/Snakes_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/DiceSides2png.xnb
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS3/Snakes&Ladders/Snakes_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/DiceSpin1.xnb
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS3/Snakes&Ladders/Snakes_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/PieceGreen.xnb
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS3/Snakes&Ladders/Snakes_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/StartBtn.xnb
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS3/Snakes&Ladders/Snakes_1/bin/Debug/netcoreapp3.1/Content/Audio/Music/01. Hero - Hans Zimmer (Kung Fu Panda Soundtrack).ogg
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS3/Snakes&Ladders/Snakes_1/bin/Debug/netcoreapp3.1/Content/Audio/Music/01. Hero - Hans Zimmer (Kung Fu Panda Soundtrack).xnb
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS3/Snakes&Ladders/Snakes_1/bin/Debug/netcoreapp3.1/Content/Audio/Music/16. Oogway Acsends - Hans Zimmer (Kung Fu Panda Soundtrack).ogg
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS3/Snakes&Ladders/Snakes_1/bin/Debug/netcoreapp3.1/Content/Audio/Music/16. Oogway Acsends - Hans Zimmer (Kung Fu Panda Soundtrack).xnb
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS3/Snakes&Ladders/Snakes_1/bin/Debug/netcoreapp3.1/Content/Audio/Music/17. Kung Fu Fighting ft Cee-Lo Green and Jack Black - Hans Zimmer (Kung Fu Panda Soundtrack).ogg
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS3/Snakes&Ladders/Snakes_1/bin/Debug/netcoreapp3.1/Content/Audio/Music/17. Kung Fu Fighting ft Cee-Lo Green and Jack Black - Hans Zimmer (Kung Fu Panda Soundtrack).xnb
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS3/Snakes&Ladders/Snakes_1/bin/Debug/netcoreapp3.1/Content/Audio/Sounds/roll.xnb
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS3/Snakes&Ladders/Snakes_1/bin/Debug/netcoreapp3.1/Content/Fonts/PlayerInfo.xnb
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS3/Snakes&Ladders/Snakes_1/bin/Debug/netcoreapp3.1/Content/Fonts/RollDice.xnb
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS3/Snakes&Ladders/Snakes_1/bin/Debug/netcoreapp3.1/Content/Fonts/SnakeOrLadder.xnb
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS3/Snakes&Ladders/Snakes_1/bin/Debug/netcoreapp3.1/Content/Fonts/StartingInfo.xnb
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS3/Snakes&Ladders/Snakes_1/bin/Debug/netcoreapp3.1/Content/Fonts/StatsInfo.xnb
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS3/Snakes&Ladders/Snakes_1/bin/Debug/netcoreapp3.1/Content/Fonts/TitleFont.xnb
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS3/Snakes&Ladders/Snakes_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/1PlayerImg.xnb
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS3/Snakes&Ladders/Snakes_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/2PlayerImg.xnb
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS3/Snakes&Ladders/Snakes_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/BG-Menu.xnb
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS3/Snakes&Ladders/Snakes_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/DiceRollingAni.xnb
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS3/Snakes&Ladders/Snakes_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/DiceSides1.xnb
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS3/Snakes&Ladders/Snakes_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/DiceSides2.xnb
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS3/Snakes&Ladders/Snakes_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/DiceSides3.xnb
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS3/Snakes&Ladders/Snakes_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/DiceSides4.xnb
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS3/Snakes&Ladders/Snakes_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/DiceSides5.xnb
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS3/Snakes&Ladders/Snakes_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/DiceSides6.xnb
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS3/Snakes&Ladders/Snakes_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/PieceBlue.xnb
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS3/Snakes&Ladders/Snakes_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/snakesandladders.xnb
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS3/Snakes&Ladders/Snakes_1/bin/Debug/netcoreapp3.1/Snakes_1.deps.json
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS3/Snakes&Ladders/Snakes_1/bin/Debug/netcoreapp3.1/Snakes_1.runtimeconfig.json
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS3/Snakes&Ladders/Snakes_1/bin/Debug/netcoreapp3.1/Snakes_1.runtimeconfig.dev.json
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS3/Snakes&Ladders/Snakes_1/bin/Debug/netcoreapp3.1/Snakes_1.dll
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS3/Snakes&Ladders/Snakes_1/bin/Debug/netcoreapp3.1/Snakes_1.pdb
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS3/Snakes&Ladders/Snakes_1/bin/Debug/netcoreapp3.1/MonoGame.Framework.dll
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS3/Snakes&Ladders/Snakes_1/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libSDL2-2.0.so.0
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS3/Snakes&Ladders/Snakes_1/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libopenal.so.1
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS3/Snakes&Ladders/Snakes_1/bin/Debug/netcoreapp3.1/runtimes/osx/native/libSDL2-2.0.0.dylib
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS3/Snakes&Ladders/Snakes_1/bin/Debug/netcoreapp3.1/runtimes/osx/native/libopenal.1.dylib
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS3/Snakes&Ladders/Snakes_1/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/SDL2.dll
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS3/Snakes&Ladders/Snakes_1/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/soft_oal.dll
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS3/Snakes&Ladders/Snakes_1/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/SDL2.dll
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS3/Snakes&Ladders/Snakes_1/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/soft_oal.dll
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS3/Snakes&Ladders/Snakes_1/bin/Debug/netcoreapp3.1/Animation2D.dll
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS3/Snakes&Ladders/Snakes_1/obj/Debug/netcoreapp3.1/Snakes_1.csproj.AssemblyReference.cache
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS3/Snakes&Ladders/Snakes_1/obj/Debug/netcoreapp3.1/Snakes_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS3/Snakes&Ladders/Snakes_1/obj/Debug/netcoreapp3.1/Snakes_1.AssemblyInfoInputs.cache
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS3/Snakes&Ladders/Snakes_1/obj/Debug/netcoreapp3.1/Snakes_1.AssemblyInfo.cs
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS3/Snakes&Ladders/Snakes_1/obj/Debug/netcoreapp3.1/Snakes_1.csproj.CoreCompileInputs.cache
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS3/Snakes&Ladders/Snakes_1/obj/Debug/netcoreapp3.1/Snakes_1.csproj.CopyComplete
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS3/Snakes&Ladders/Snakes_1/obj/Debug/netcoreapp3.1/Snakes_1.dll
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS3/Snakes&Ladders/Snakes_1/obj/Debug/netcoreapp3.1/Snakes_1.pdb
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS3/Snakes&Ladders/Snakes_1/obj/Debug/netcoreapp3.1/Snakes_1.genruntimeconfig.cache

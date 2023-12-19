@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS3/Snakes&amp;Ladders/Snakes_1/Content/../../DiceRollingAni.png</File>
+    <File>/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS3/Snakes&amp;Ladders/Snakes_1/Content/Audio/Music/01. Hero - Hans Zimmer (Kung Fu Panda Soundtrack).mp3</File>
+    <File>/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS3/Snakes&amp;Ladders/Snakes_1/Content/Audio/Music/16. Oogway Acsends - Hans Zimmer (Kung Fu Panda Soundtrack).mp3</File>
+    <File>/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS3/Snakes&amp;Ladders/Snakes_1/Content/Audio/Music/17. Kung Fu Fighting ft Cee-Lo Green and Jack Black - Hans Zimmer (Kung Fu Panda Soundtrack).mp3</File>
+    <File>/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS3/Snakes&amp;Ladders/Snakes_1/Content/Audio/Sounds/roll.wav</File>
+    <File>/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS3/Snakes&amp;Ladders/Snakes_1/Content/Fonts/PlayerInfo.spritefont</File>
+    <File>/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS3/Snakes&amp;Ladders/Snakes_1/Content/Fonts/RollDice.spritefont</File>
+    <File>/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS3/Snakes&amp;Ladders/Snakes_1/Content/Fonts/SnakeOrLadder.spritefont</File>
+    <File>/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS3/Snakes&amp;Ladders/Snakes_1/Content/Fonts/StartingInfo.spritefont</File>
+    <File>/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS3/Snakes&amp;Ladders/Snakes_1/Content/Fonts/StatsInfo.spritefont</File>
+    <File>/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS3/Snakes&amp;Ladders/Snakes_1/Content/Fonts/TitleFont.spritefont</File>
+    <File>/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS3/Snakes&amp;Ladders/Snakes_1/Content/Images/Sprites/1PlayerImg.png</File>
+    <File>/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS3/Snakes&amp;Ladders/Snakes_1/Content/Images/Sprites/2PlayerImg.png</File>
+    <File>/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS3/Snakes&amp;Ladders/Snakes_1/Content/Images/Sprites/BG-Menu.png</File>
+    <File>/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS3/Snakes&amp;Ladders/Snakes_1/Content/Images/Sprites/DiceRollingAni.png</File>
+    <File>/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS3/Snakes&amp;Ladders/Snakes_1/Content/Images/Sprites/DiceSides1.png</File>
+    <File>/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS3/Snakes&amp;Ladders/Snakes_1/Content/Images/Sprites/DiceSides2.png</File>
+    <File>/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS3/Snakes&amp;Ladders/Snakes_1/Content/Images/Sprites/DiceSides3.png</File>
+    <File>/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS3/Snakes&amp;Ladders/Snakes_1/Content/Images/Sprites/DiceSides4.png</File>
+    <File>/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS3/Snakes&amp;Ladders/Snakes_1/Content/Images/Sprites/DiceSides5.png</File>
+    <File>/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS3/Snakes&amp;Ladders/Snakes_1/Content/Images/Sprites/DiceSides6.png</File>
+    <File>/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS3/Snakes&amp;Ladders/Snakes_1/Content/Images/Sprites/PieceBlue.png</File>
+    <File>/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS3/Snakes&amp;Ladders/Snakes_1/Content/Images/Sprites/snakesandladders.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>Images/Sprites/DiceRollingAni.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
